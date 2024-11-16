@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MAYANKxOP
-- 👀 I’m interested in web development, UI/UX...
-- 🌱 I’m currently learning REACT JS.
+- 👀 I’m interested in Python development
+- 🌱 I’m currently learning DAJNGO.
 - 💞️ I’m looking for an internship
 - 📫 Reach me through out my email (mayanksolanki.2002@gamil.com)
 
